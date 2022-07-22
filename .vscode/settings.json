@@ -1,0 +1,5 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "platformio-ide.activateProjectOnTextEditorChange": true,
+    "platformio-ide.activateOnlyOnPlatformIOProject": true
+}
